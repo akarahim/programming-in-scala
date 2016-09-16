@@ -1,1 +1,1 @@
-This in practise prject for learning in scala
+This in practise project for learning in scala
