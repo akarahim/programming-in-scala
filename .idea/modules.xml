@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter-10/chapter-10.iml" filepath="$PROJECT_DIR$/chapter-10/chapter-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-12/chapter-12.iml" filepath="$PROJECT_DIR$/chapter-12/chapter-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-15/chapter-15.iml" filepath="$PROJECT_DIR$/chapter-15/chapter-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-16/chapter-16.iml" filepath="$PROJECT_DIR$/chapter-16/chapter-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-19/chapter-19.iml" filepath="$PROJECT_DIR$/chapter-19/chapter-19.iml" />
       <module fileurl="file://$PROJECT_DIR$/programming-in-scala.iml" filepath="$PROJECT_DIR$/programming-in-scala.iml" />
     </modules>
   </component>
